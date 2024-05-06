@@ -1,0 +1,15 @@
+{
+  "originHash" : "32b1f59019fdbe7ea017ec92259c84d9e3c023ec3d4f555ce9b4c6f57a1d1321",
+  "pins" : [
+    {
+      "identity" : "enode-link-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/enode/enode-link-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6d6828ba69c78a7f10bea94ac64865bfc0ba5203"
+      }
+    }
+  ],
+  "version" : 3
+}
